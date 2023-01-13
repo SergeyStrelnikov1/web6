@@ -1,0 +1,35 @@
+.hero {
+    background-color: dodgerblue;
+}
+
+.logo {
+    width: 150px;
+}
+
+.main-character {
+    background-color: dodgerblue;
+}
+
+.technologies {
+    background-color: dodgerblue;
+}
+
+.heading-line {
+    background-color: black;
+    width: 200px;
+    height: 3px;
+}
+
+.contacts {
+    background-color: gainsboro;
+}
+
+.footer {
+    background-color: crimson;
+}
+
+.heading-line-foot {
+    background-color: black;
+    width: 300px;
+    height: 3px;
+}
